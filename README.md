@@ -1,4 +1,4 @@
-# Roberto Álvarez Martínez (@robertoalvarezm)
+# Roberto Álvarez  (@robertoalvarezm)
 
 👨‍🔬 Profesor-investigador | Biología Cuantitativa & Sistemas Complejos  
 🧬 Microbioma intestinal • Ecología microbiana • Redes complejas • Modelaje matemático  
@@ -59,7 +59,8 @@ Si tienes una idea con datos públicos, modelos, y ganas de hacer ciencia bonita
 
 ## Contacto
 - GitHub: **@robertoalvarezm**
-- Email: *(pon aquí tu correo institucional o el que uses para ciencia)*
+- Email: **roberto.alvarez@uaq.mx**
+- bluesky **[https://bsky.app/profile/robertoalvarez.bsky.social](@robertoalvarez.bsky.social)***
 
 ---
 
