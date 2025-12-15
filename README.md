@@ -60,7 +60,7 @@ Si tienes una idea con datos públicos, modelos, y ganas de hacer ciencia bonita
 ## Contacto
 - GitHub: **@robertoalvarezm**
 - Email: **roberto.alvarez@uaq.mx**
-- bluesky **[https://bsky.app/profile/robertoalvarez.bsky.social](@robertoalvarez.bsky.social)***
+- bluesky **[@robertoalvarez.bsky.social](https://bsky.app/profile/robertoalvarez.bsky.social)**
 
 ---
 
