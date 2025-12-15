@@ -1,10 +1,3 @@
-Perfecto, Roberto. Con esas dos ligas ya podemos “anclar” tu perfil a **proyectos con cara de producto** (docs, citas, instalación) y no solo repos sueltos. El sitio de **DGBD** incluye la cita oficial y el `install_github()` ([fa-moe.github.io][1]), y **mlBioNets** trae descripción/flujo, comandos de instalación y el DOI de Bioconductor ([nertekkad.github.io][2]).
-
-Aquí va un `README.md` listo para tu perfil **@robertoalvarezm** (cópialo tal cual). Deja placeholders donde veas `TODO:`.
-
-````md
-<!-- Profile README for: https://github.com/robertoalvarezm -->
-
 <h1 align="center">Roberto Álvarez Martínez</h1>
 <p align="center">
   🧬 Microbioma intestinal · 🌐 Redes complejas · 📈 Series de tiempo/EWS · 🧪 Modelaje eco-computacional<br/>
