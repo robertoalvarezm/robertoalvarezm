@@ -1,6 +1,6 @@
 <h1 align="center">Roberto Álvarez Martínez</h1>
 <p align="center">
-  🧬 Microbioma intestinal · 🌐 Redes complejas · 📈 Series de tiempo/EWS · 🧪 Modelaje eco-computacional<br/>
+  🧬 Microbioma intestinal ·  Redes complejas · 📈 Series de tiempo/EWS · 🧪 Modelaje eco-computacional<br/>
   <i>Biología Cuantitativa & Sistemas Complejos, con reproducibilidad y cero humo.</i>
 </p>
 
