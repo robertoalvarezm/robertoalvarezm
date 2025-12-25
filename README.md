@@ -99,11 +99,6 @@ Si algo falla, abre issue: el caos también tiene estructura… a veces 😅
 </sub>
 ```
 
-Si me dices **qué quieres que aparezca como “identidad” arriba** (UAQ, nombre del lab, 1 línea tipo tagline) y me pasas **3 repos** que quieras destacar (nombre + 1 frase cada uno), te lo dejo todavía más pro con:
-
-* tarjetas con “Featured repos”
-* badges útiles (R, Bioconductor, DOI, lifecycle)
-* sección mini de *Teaching/Materiales* (si quieres presumir apuntes Quarto)
 
 [1]: https://fa-moe.github.io/DGBD/ "Discrete Generalized Beta Distribution Modeling and Plotting • DGBD"
 [2]: https://nertekkad.github.io/mlBioNets/ "R package for the analysis of microbiota data using a multilayer networks approach • mlBioNets"
