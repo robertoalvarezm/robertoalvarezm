@@ -92,8 +92,8 @@ Me interesa colaborar en:
 
 📫 **Contacto:** TODO: pon aquí tu correo o una liga (web del lab / UAQ / etc.)
 
-[Laboratorio de Biología Cuantitativa y Sistemas Complejos](https://sites.google.com/view/robertolvarezmartinez/página-principal)
-[@robertoalvarez.bsky.social](Roberto Álvarez BlueSky) 
+-  [Laboratorio de Biología Cuantitativa y Sistemas Complejos](https://sites.google.com/view/robertolvarezmartinez/página-principal)
+-  [Roberto Álvarez BlueSky](@robertoalvarez.bsky.social) 
 ---
 
 <sub>
