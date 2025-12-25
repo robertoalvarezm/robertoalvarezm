@@ -92,7 +92,7 @@ Me interesa colaborar en:
 
 📫 **Contacto:** TODO: pon aquí tu correo o una liga (web del lab / UAQ / etc.)
 
-[https://sites.google.com/view/robertolvarezmartinez/página-principal](Página web)
+[https://sites.google.com/view/robertolvarezmartinez/página-principal](https://sites.google.com/view/robertolvarezmartinez/página-principal)
 [@robertoalvarez.bsky.social](Roberto Álvarez BlueSky) 
 ---
 
