@@ -90,8 +90,7 @@ Me interesa colaborar en:
 * EWS y transiciones críticas
 * pipelines reproducibles con datos públicos
 
-📫 **Contacto:** TODO: pon aquí tu correo o una liga (web del lab / UAQ / etc.)
-
+📫 **Contacto:** 
 -  [Laboratorio de Biología Cuantitativa y Sistemas Complejos](https://sites.google.com/view/robertolvarezmartinez/página-principal)
 -  [Roberto Álvarez BlueSky](@robertoalvarez.bsky.social) 
 ---
