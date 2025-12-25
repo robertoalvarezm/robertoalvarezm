@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 En qué ando (versión humana)
+## 🧠 En qué ando 
 Trabajo en la intersección entre **microbiomas**, **dinámica ecológica**, **redes biológicas** y **modelos matemáticos/computacionales**. Me interesan especialmente:
 
 - **Resiliencia** del microbioma ante perturbaciones (dieta, antibióticos, etc.)
@@ -92,6 +92,8 @@ Me interesa colaborar en:
 
 📫 **Contacto:** TODO: pon aquí tu correo o una liga (web del lab / UAQ / etc.)
 
+[https://sites.google.com/view/robertolvarezmartinez/página-principal](Página web)
+[@robertoalvarez.bsky.social](Roberto Álvarez BlueSky) 
 ---
 
 <sub>
